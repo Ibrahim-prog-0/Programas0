@@ -42,8 +42,7 @@ public class examen19_20 {
 
 			case 2:
 				for (int i = 0; i < contadorPartidos; i++) {
-					System.out.println(
-							eqLocal[i] + "-" + eqVisitante[i] + " (" + golesLocal[i] + "-" + golesVisitante[i] + ")");
+					System.out.println(eqLocal[i] + "-" + eqVisitante[i] + " (" + golesLocal[i] + "-" + golesVisitante[i] + ")");
 				}
 				break;
 			case 3:
